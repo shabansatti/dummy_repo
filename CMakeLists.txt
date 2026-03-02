@@ -3,5 +3,5 @@ project(dummy_repo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dummy_repo
+add_executable(dummy1
         main.cpp)
